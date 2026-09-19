@@ -28,7 +28,7 @@ Step 7: Save and run the application, perform calculations, and verify the resul
 
 ## Program to create and design an android application simple calculator using intent.
 
-### MainActivity.java:
+### Mainactivity.java:
 ```
 package com.example.simplecaculator;
 
